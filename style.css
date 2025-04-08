@@ -199,3 +199,7 @@
     font-family: Open Sans,Helvetica,Arial,sans-serif;
     margin: 4px;
   }
+
+  td:nth-child(2):contains("∅") {
+    background-color: #e2e3e5;
+  }
